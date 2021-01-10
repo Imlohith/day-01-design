@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Below is the preview
 
-![alt text](https://github.com/Imlohith/day-01-design/tree/master/src/assets/day-01.png?raw=true)
+![alt text](https://github.com/Imlohith/day-01-design/blob/master/src/assets/day-01.PNG?raw=true)
